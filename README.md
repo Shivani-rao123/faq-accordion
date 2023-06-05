@@ -3,11 +3,7 @@
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout for the component depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Hide/Show the answer to a question when the question is clicked
+to make the faq accordion  card using html css and javascript
 
 ### Screenshot
 
@@ -23,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://shivani-rao123.github.io/faq-accordion/)
+- Live Site URL: [Add live site URL here](https://shivani-rao123.github.io/faq-accordion/)
 
 ## My process
 -create a draft of the website
@@ -45,25 +41,11 @@ finally java script
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Through this exercise I understood when to use the flex box and positioning syntaxes e.g:relative , absolute.
 
-To see how you can add code snippets, see below:
+i made use of the 100vh property to properly the properties of individual card.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-
+i am super excited to have used Java Script 
 
 ### Continued development
 
