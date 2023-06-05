@@ -19,8 +19,8 @@ to make the faq accordion  card using html css and javascript
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://shivani-rao123.github.io/faq-accordion/)
-- Live Site URL: [Add live site URL here](https://shivani-rao123.github.io/faq-accordion/)
+- Solution URL: (https://shivani-rao123.github.io/faq-accordion/)
+- Live Site URL: (https://shivani-rao123.github.io/faq-accordion/)
 
 ## My process
 -create a draft of the website
